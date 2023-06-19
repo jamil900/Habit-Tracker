@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\values-fi\\values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "604",
+                        "endColumns": "100",
+                        "endOffsets": "700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,162,262,358,479",
+                        "endColumns": "106,99,95,120,124",
+                        "endOffsets": "157,257,353,474,599"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "604",
+                        "endColumns": "100",
+                        "endOffsets": "700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,162,262,358,479",
+                        "endColumns": "106,99,95,120,124",
+                        "endOffsets": "157,257,353,474,599"
+                    }
+                }
+            ]
+        }
+    ]
+}

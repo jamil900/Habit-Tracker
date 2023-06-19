@@ -1,0 +1,37 @@
+<variant
+    name="release"
+    package="com.haha.yourhabits"
+    minSdkVersion="21"
+    targetSdkVersion="33"
+    shrinking="true"
+    mergedManifest="D:\P. Mobile\Habo\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="D:\P. Mobile\Habo\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.1.3;C:\src\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="D:\P. Mobile\Habo\build\app\intermediates\lint_vital_partial_results\release\out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="D:\P. Mobile\Habo\build\app\intermediates\javac\release\classes;D:\P. Mobile\Habo\build\app\tmp\kotlin-classes\release;D:\P. Mobile\Habo\build\app\kotlinToolingMetadata;D:\P. Mobile\Habo\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.yourhabits.habit"
+      generatedSourceFolders="D:\P. Mobile\Habo\build\app\generated\ap_generated_sources\release\out;D:\P. Mobile\Habo\build\app\generated\aidl_source_output_dir\release\out;D:\P. Mobile\Habo\build\app\generated\source\buildConfig\release;D:\P. Mobile\Habo\build\app\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="D:\P. Mobile\Habo\build\app\generated\res\rs\release;D:\P. Mobile\Habo\build\app\generated\res\resValues\release">
+  </mainArtifact>
+</variant>

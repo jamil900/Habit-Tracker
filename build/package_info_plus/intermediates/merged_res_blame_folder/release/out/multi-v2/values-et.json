@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\P. Mobile\\Habo\\build\\package_info_plus\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-et\\values-et.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\P. Mobile\\Habo\\build\\package_info_plus\\intermediates\\merged_res\\release\\values-et\\values-et.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

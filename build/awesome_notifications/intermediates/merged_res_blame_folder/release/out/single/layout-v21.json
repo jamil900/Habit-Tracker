@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\awesome_notifications\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\912135c7c19892c584b69e25d7a6c3ad\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\awesome_notifications\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\912135c7c19892c584b69e25d7a6c3ad\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\awesome_notifications\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\912135c7c19892c584b69e25d7a6c3ad\\transformed\\core-1.8.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\awesome_notifications\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\912135c7c19892c584b69e25d7a6c3ad\\transformed\\core-1.8.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_previous.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_next.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_play.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_pause.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\d4b72da0f053f8b3d126f13983a32e84\\transformed\\core-1.6.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\P. Mobile\\Habo\\build\\audio_session\\intermediates\\merged_res\\release\\drawable-mdpi-v4\\media_session_service_notification_ic_music_note.png",
+        "source": "C:\\Users\\Jamil Ulumudin\\.gradle\\caches\\transforms-3\\5e4e0dce7a047ba3f90d5da7c84f2014\\transformed\\jetified-media2-session-1.2.0\\res\\drawable-mdpi-v4\\media_session_service_notification_ic_music_note.png"
+    }
+]
